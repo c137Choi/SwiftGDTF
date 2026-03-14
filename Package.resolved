@@ -1,22 +1,22 @@
 {
-  "originHash" : "a9a6fc1b9b18590d4c86ee85393efeb6a95c04b15267baaa7265278154aefc6d",
+  "originHash" : "f16c4f7603f928739a9be7afe28fa8f2596a9339c1ac57c423a982a094601f05",
   "pins" : [
     {
       "identity" : "swxmlhash",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/drmohundro/SWXMLHash.git",
       "state" : {
-        "revision" : "a853604c9e9a83ad9954c7e3d2a565273982471f",
-        "version" : "7.0.2"
+        "revision" : "9cfb8730651ae7f57a6f5d413e2f07be7d7dbd41",
+        "version" : "8.1.1"
       }
     },
     {
       "identity" : "zipfoundation",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/weichsel/ZIPFoundation.git",
+      "location" : "https://github.com/weichsel/ZIPFoundation",
       "state" : {
-        "revision" : "02b6abe5f6eef7e3cbd5f247c5cc24e246efcfe0",
-        "version" : "0.9.19"
+        "revision" : "22787ffb59de99e5dc1fbfe80b19c97a904ad48d",
+        "version" : "0.9.20"
       }
     }
   ],

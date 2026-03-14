@@ -16,7 +16,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/drmohundro/SWXMLHash.git", from: "7.0.0"),
+        .package(url: "https://github.com/drmohundro/SWXMLHash.git", .upToNextMajor(from: "8.0.0")),
         .package(url: "https://github.com/weichsel/ZIPFoundation", .upToNextMajor(from: "0.9.19")),
     ],
     targets: [
